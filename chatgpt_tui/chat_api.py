@@ -16,7 +16,7 @@ async def get_openai_response(content)-> tuple[bool, str]:
     }
 
     data = {
-        "model": "gpt-3.5-turbo",
+        "model": "gpt-4o",
         "messages": content
     }
 
