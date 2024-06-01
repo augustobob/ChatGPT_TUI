@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="chatgpt_tui",
-    version="0.7.0",
+    version="0.7.1",
     author="Jiayi Pan",
     author_email="i@jiayipan.me",
     description="A simple TUI interface for ChatGPT.",
